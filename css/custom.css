@@ -1,0 +1,51 @@
+td img {
+	display: inline;
+}
+
+img.profile {
+	padding-right: 5px;
+}
+
+h1
+{
+	font-size:60px;
+	margin-bottom:0;
+	text-transform:uppercase;
+	text-align: center;
+}
+
+.searchForm {
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
+
+.input-append {
+	padding: 0;
+	margin: 0;
+	height: 25px;
+}
+
+#search {
+	margin: 0;
+}
+
+p.centered {
+	text-align: center;
+}
+
+td.countryName {
+	padding-top: 15px;
+}
+
+.id {
+	width: 1px;
+}
+
+.medals {
+	width: 100px;
+}
+
+.searchTH {
+	width: 305px;
+}

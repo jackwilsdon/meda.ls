@@ -1,3 +1,3 @@
 Meda.ls
 =======
-The code for **Meda.ls**. It will be password protected until YRS is over, the source will then be released.
+The code for **Meda.ls**. I'm not going to provide documentation, you'll have to work it out youself.
